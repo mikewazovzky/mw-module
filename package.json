@@ -1,0 +1,23 @@
+{
+  "name": "mw-module-test",
+  "version": "0.0.1",
+  "description": "First ever npm module",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikewazovzky/mw-module.git"
+  },
+  "author": "mikewazovzky <mike.wazovzky@gmail.com> (http://m-lab.xyz)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikewazovzky/mw-module/issues"
+  },
+  "homepage": "https://github.com/mikewazovzky/mw-module#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.3.0"
+  }
+}
