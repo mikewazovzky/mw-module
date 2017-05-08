@@ -24,3 +24,8 @@ A test library that logs out argument string
 ## Contributing
 
 Feel free to contribute if you like )
+
+## P.S.
+
+"How to Create and Publish Your First Node.js Module" tutorial can be found here:
+https://medium.com/@jdaudier/how-to-create-and-publish-your-first-node-js-module-444e7585b738
