@@ -12,7 +12,7 @@ describe('Testing console logger', function() {
 
     it('should log out error messagre if no argument provided', function() {
         var testString = 'Error. No input provided.';
-        var result = logger(testString);
+        var result = logger();
         expect(result).to.equal(testString);
     });
 });
