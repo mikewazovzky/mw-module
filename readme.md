@@ -1,11 +1,10 @@
-[![Build Status](https://travis-ci.org/mikewazovzky/mw-module.svg?branch=master)](https://travis-ci.org/mikewazovzky/mw-module)
-
+[![Build Status](https://travis-ci.org/mikewazovzky/mw-module.svg?branch=master)](https://travis-ci.org/mikewazovzky/mw-module)     
 [![Coverage Status](https://coveralls.io/repos/github/mikewazovzky/mw-module/badge.svg?branch=master)](https://coveralls.io/github/mikewazovzky/mw-module?branch=master)
 
 Just a Stupid Logger 
 =========
 
-A test library that logs out argument string
+A test library (npm module) that logs out argument string
 
 ## Installation
 
