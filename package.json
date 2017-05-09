@@ -1,8 +1,8 @@
 {
   "name": "mw-module-test",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "First ever npm module",
-  "main": "index.js",
+  "main": "log.js",
   "scripts": {
     "test": "mocha --reporter spec --compilers js:babel-core/register",
     "cover": "node node_modules/istanbul/lib/cli.js cover node_modules/mocha/bin/_mocha -- -R spec test/*"
