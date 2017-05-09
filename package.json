@@ -1,6 +1,6 @@
 {
   "name": "mw-module-test",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "First ever npm module",
   "main": "index.js",
   "scripts": {
